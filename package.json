@@ -1,0 +1,28 @@
+{
+  "name": "my-vue",
+  "version": "1.0.0",
+  "description": "my first webpack + vue project",
+  "main": "index.js",
+  "author": "ZJ",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cross-env webpack-dev-server --open --hot"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "cross-env": "^5.1.1",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
+    "node-sass": "^4.7.2",
+    "pug": "^2.0.0-rc.4",
+    "sass-loader": "^6.0.6",
+    "vue": "^2.5.8",
+    "vue-loader": "^13.5.0",
+    "vue-template-compiler": "^2.5.8",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}
