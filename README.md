@@ -1,1 +1,1 @@
-# vue-webpack
+My First Vue + Webpack + Scss + Pug + Yarn Project
